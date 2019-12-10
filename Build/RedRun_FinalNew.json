@@ -1,0 +1,15 @@
+{
+"companyName": "GeekGang",
+"productName": "Hotel RedRum",
+"productVersion": "4.0",
+"dataUrl": "RedRun_FinalNew.data.unityweb",
+"wasmCodeUrl": "RedRun_FinalNew.wasm.code.unityweb",
+"wasmFrameworkUrl": "RedRun_FinalNew.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.10f1"
+}
